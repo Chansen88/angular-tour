@@ -8,6 +8,7 @@
     "angular",
     "module"
   ],
+  "main": "./dist/angular-tour.min.js",
   "homepage": "https://github.com/DaftMonk/angular-tour",
   "bugs": "https://github.com/DaftMonk/angular-tour/issues",
   "author": {
